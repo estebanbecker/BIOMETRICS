@@ -28,3 +28,6 @@
 [submodule "fingerprints-recognition"]
 	path = fingerprints-recognition
 	url = https://github.com/estebanbecker/fingerprints-recognition
+[submodule "face-recognition"]
+	path = face-recognition
+	url = https://github.com/estebanbecker/face-recognition
