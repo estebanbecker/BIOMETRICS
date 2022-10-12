@@ -1,0 +1,30 @@
+[submodule "keystroke-biometrics"]
+	path = keystroke-biometrics
+	url = https://github.com/estebanbecker/keystroke-biometrics
+[submodule "Keystroke-Recognition"]
+	path = Keystroke-Recognition
+	url = https://github.com/estebanbecker/Keystroke-Recognition
+[submodule "Gait-recognition"]
+	path = Gait-recognition
+	url = https://github.com/estebanbecker/Gait-recognition
+[submodule "voice-recognition-DCNN"]
+	path = voice-recognition-DCNN
+	url = https://github.com/estebanbecker/voice-recognition-DCNN
+[submodule "voice-recognition"]
+	path = voice-recognition
+	url = https://github.com/estebanbecker/voice-recognition
+[submodule "retina-recognition-ia"]
+	path = retina-recognition-ia
+	url = https://github.com/estebanbecker/retina-recognition-ia
+[submodule "retina-recognition"]
+	path = retina-recognition
+	url = https://github.com/estebanbecker/retina-recognition
+[submodule "iris-recognition"]
+	path = iris-recognition
+	url = https://github.com/estebanbecker/iris-recognition
+[submodule "GaitGraph"]
+	path = GaitGraph
+	url = https://github.com/estebanbecker/GaitGraph
+[submodule "fingerprints-recognition"]
+	path = fingerprints-recognition
+	url = https://github.com/estebanbecker/fingerprints-recognition
